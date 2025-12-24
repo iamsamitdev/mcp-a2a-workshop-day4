@@ -1,0 +1,14 @@
+ex1-server-host-client/.venv/
+ex1-server-host-client/.env
+workshop1-csv-mcp/.venv/
+workshop1-csv-mcp/.env
+workshop2-pdf-mcp/.venv/
+workshop2-pdf-mcp/.env
+workshop3-gsheets-mcp/.venv/
+workshop3-gsheets-mcp/.env
+workshop3-gsheets-mcp/service_account.json
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.env

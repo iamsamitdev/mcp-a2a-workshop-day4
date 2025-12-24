@@ -1,0 +1,11 @@
+[project]
+name = "workshop3-gsheets-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastmcp>=2.14.1",
+    "google-auth>=2.45.0",
+    "gspread>=6.2.1",
+]
